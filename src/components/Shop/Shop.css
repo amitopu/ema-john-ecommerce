@@ -25,6 +25,12 @@
     border-radius: 5px;
 }
 
+.pagination .selected {
+    background-color: rgba(255, 153, 0, 0.8);
+    color: white;
+    border: 1px solid black;
+}
+
 .cart-container {
     background-color: rgba(255, 153, 0, 0.3);
 }
